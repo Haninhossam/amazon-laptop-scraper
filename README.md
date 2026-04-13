@@ -1,4 +1,4 @@
-# 🖥️ Amazon Egypt Gaming Laptop Scraper
+# 🖥️ Amazon Laptop Scraper
 
 This project is a web scraping and data processing pipeline built using Python and Selenium to extract gaming laptop data from Amazon Egypt and transform it into a structured dataset.
 
